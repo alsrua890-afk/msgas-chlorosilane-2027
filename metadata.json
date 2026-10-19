@@ -1,0 +1,6 @@
+{
+  "name": "(주)MS가스 - 반도체 초고순도 특수가스 솔루션",
+  "description": "신에츠화학(Shin-Etsu) 공식 파트너 (주)MS가스 & MS머트리얼즈의 초고순도 클로로실란(DCS, TCS, STC) 공급 및 기술지원 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
